@@ -19,6 +19,8 @@ The dataset used in the study is in [pathogen folder](https://www.ncbi.nlm.nih.g
 - Machine learning exploration: Train different machine learning models 
 - Model interpretability: identify potential genomic variations (SNPs) associated with the host source attribution of E. coli.
 # workflow
+![workflow](https://github.com/user-attachments/assets/fe90f94b-4029-4b9a-b407-4019086a6b07)
+
 # Results
 ## Selected references 
 - Lupolova, Nadejda, et al. "Patchy promiscuity: machine learning applied to predict the host specificity of Salmonella enterica and Escherichia coli." Microbial genomics 3.10 (2017): e000135.
